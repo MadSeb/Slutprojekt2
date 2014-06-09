@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+html { 
+	background-color: #b9fff3;
+}
+
+body	{
+	background-color:#FFF;
+}
+h1, a, p, h3, h2{
+	font-family:century gothic;
+}
+h1{
+	color: #ff7777;
+}
+h2:hover{
+	color: #ff7777;
+}
+
+div {
+	padding-left: 5%;
+	background-color: #e9faff;
+}
